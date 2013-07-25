@@ -1,4 +1,4 @@
-sitetosite
+Site To Site
 ==========
 
-Site to Site, a course at the Columbia University Graduate School of Architecture, Planning and Preservation
+Two courses - A4819 and A4822 - at the Columbia University Graduate School of Architecture, Planning and Preservation.
